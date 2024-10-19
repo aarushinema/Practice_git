@@ -1,2 +1,1 @@
-# Practice_git
-learning of git
+#This is the repo for my practice
